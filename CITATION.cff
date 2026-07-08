@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "RPS27L_MASLD_bioinformatics"
+message: "If you use this analysis code, please cite the archived Zenodo record and the associated manuscript."
+type: software
+authors:
+  - name: "RPS27L MASLD Bioinformatics Analysis Contributors"
+repository-code: "https://github.com/<github-account>/RPS27L_MASLD_bioinformatics"
+abstract: "Bioinformatics analysis code for evaluating metabolic-aging-associated hepatocyte states and RPS27L expression in public human MASLD/MASH transcriptomic datasets."
+keywords:
+  - MASLD
+  - MASH
+  - RPS27L
+  - hepatocyte
+  - single-cell RNA-seq
+  - pseudobulk
+  - GSEA
+license: MIT
+version: 1.0.0
+date-released: 2026-07-07
+
