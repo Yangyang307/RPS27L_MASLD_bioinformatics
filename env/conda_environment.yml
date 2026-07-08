@@ -1,0 +1,22 @@
+name: rps27l_masld_bioinformatics
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base>=4.3
+  - r-essentials
+  - r-data.table
+  - r-dplyr
+  - r-readr
+  - r-stringr
+  - r-tidyr
+  - r-ggplot2
+  - r-patchwork
+  - r-matrix
+  - r-uwot
+  - r-ragg
+  - bioconductor-edger
+  - bioconductor-clusterprofiler
+  - r-msigdbr
+  - r-seurat
